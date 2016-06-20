@@ -3,7 +3,6 @@
   "title": "D3 Fishbone Angular directive",
   "description": "This is a Fishbone or Ishikawa diagram Angular directive",
   "license": "MIT",
-  "private": "false",
   "keywords": [
     "d3",
     "fishbone",
@@ -33,7 +32,6 @@
   "authors": [
     "umit gunduz <umitgunduz@yahoo.com>"
   ],
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
