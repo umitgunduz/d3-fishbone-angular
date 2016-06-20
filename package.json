@@ -1,7 +1,7 @@
 {
   "name": "d3.fishbone.angular",
   "description": "This is a Fishbone or Ishikawa diagram Angular directive, which shows contributions of different levels of a hierarchy to a main concept.",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/umitgunduz/d3-fishbone-angular",
   "author": "umitgunduz",
   "repository": {
