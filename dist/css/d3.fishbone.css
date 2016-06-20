@@ -1,0 +1,39 @@
+/*!
+ * =============================================================
+ * d3.fishbone v0.1.0 - This is a Fishbone or Ishikawa diagram, which shows contributions of different levels of a hierarchy to a main concept.
+ * https://gist.github.com/bollwyvl/9239214
+ *
+ * (c) 2016 - Nicholas Bollweg (http://bl.ocks.org/bollwyvl/9239214)
+ * =============================================================
+ */
+
+.label-0 {
+  font-size: 2em; }
+
+.label-1 {
+  font-size: 1.5em;
+  fill: #111; }
+
+.label-2 {
+  font-size: 1em;
+  fill: #444; }
+
+.label-3 {
+  font-size: .9em;
+  fill: #888; }
+
+.label-4 {
+  font-size: .8em;
+  fill: #aaa; }
+
+.link-0 {
+  stroke: #000;
+  stroke-width: 2px; }
+
+.link-1 {
+  stroke: #333;
+  stroke-width: 1px; }
+
+.link-2, .link-3, .link-4 {
+  stroke: #666;
+  stroke-width: .5px; }

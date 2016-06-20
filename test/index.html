@@ -1,0 +1,20 @@
+<html ng-app="app">
+    <head>
+        <title>d3 Fishbone diagram</title>
+        <meta charset="utf-8">
+        <style>
+            @import url("../dist/css/d3.fishbone.css");
+        </style>
+    </head>
+    <body ng-controller="MainController">
+        <span>Test</span>
+        -<div id="fishbone" ng-model="data" fishbone style="width:100%;height:300px"></div>
+
+        <!--<script src="sample.js" charset="utf-8"></script>-->
+        <script src="../bower_components/angular/angular.js" charset="utf-8"></script>
+        <script src="../bower_components/d3/d3.js" charset="utf-8"></script>
+        <script src="../dist/js/d3.fishbone.angular.min.js" charset="utf-8"></script>
+        <script src="../test/app.js" charset="utf-8"></script>
+
+    </body>
+</html>
