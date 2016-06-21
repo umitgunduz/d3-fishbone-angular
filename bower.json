@@ -26,7 +26,7 @@
     "d3": ">=3.4.1"
   },
   "main": [
-    "dist/js/d3.fishbone.js",
+    "dist/js/d3.fishbone.angular.js",
     "dist/css/d3.fishbone.css"
   ],
   "authors": [
